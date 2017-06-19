@@ -1,6 +1,6 @@
 # Website
-    This is website of cosmetic products. It is a mid-term project of college student
-    that I developed for    her.HTML,CSS,Jquery technologies are used to build this website.  
+ This is website of cosmetic products. It is a mid-term project of college student
+ that I developed for her.HTML,CSS,Jquery technologies are used to build this website.  
     
 
 
